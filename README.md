@@ -2,7 +2,7 @@ Hi 👋 My name is Leudy De los Santos
 ====================================
 
 * 🌍  I'm based in República Dominicana
-* ✉️  You can contact me at [leudylandia26@hotmail.com](mailto:leudylandia26@hotmail.com)
+* ✉️  You can contact me at
 
 ### Skills
 
